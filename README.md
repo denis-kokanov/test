@@ -1,1 +1,1 @@
-# this code is for AI agent
+The AI (LLM) agent should get the current version of the code from the github repository. Check the code in the test container using tests from the corresponding file (starts with test_ and then repeats the name of the file being tested). If the testing is successful, deploy the code to the production container.
